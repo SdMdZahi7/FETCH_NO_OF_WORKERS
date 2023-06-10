@@ -35,5 +35,5 @@ ORDER BY no_of_workers DESC;
 
 ![image](https://github.com/SdMdZahi7/FETCH_NO_OF_WORKERS/assets/94187572/255a4397-a1ee-4d47-88c3-80d0868c00cb)
 
-RESULT:
+## RESULT:
 Thus, sql query to fetch the number of workers for each department in descending order from the sample data is executed successfully.
